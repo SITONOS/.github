@@ -2,9 +2,9 @@
 
 <div align="center">
 
-[![Industry](https://img.shields.io/badge/Industry-AgTech%20%7C%20FinTech-1976D2?style=for-the-badge)](#)
-[![Logistics](https://img.shields.io/badge/Logistics-Smart%20Fleet%20%26%20Telemetry-00E676?style=for-the-badge)](#)
-[![Platform](https://img.shields.io/badge/Platform-Enterprise%20Ready-0A0F1D?style=for-the-badge)](#)
+[![Industry](https://img.shields.io/badge/Sector-AgTech%20%7C%20FinTech-1976D2?style=for-the-badge)](#)
+[![Logistics](https://img.shields.io/badge/Log%C3%ADstica-Monitoreo%20Satelital%20GPS-00C853?style=for-the-badge)](#)
+[![Platform](https://img.shields.io/badge/Plataforma-B2B%20Agroindustrial-6366F1?style=for-the-badge)](#)
 
 ### 🌾 Transformando el sector agroindustrial mediante tecnología, logística inteligente y liquidación financiera segura.
 
@@ -13,7 +13,7 @@
 
 ## 🚀 Sobre SITONOS
 
-**SITONOS** es una plataforma integral de tecnología diseñada para digitalizar, optimizar y conectar la cadena de valor agroindustrial. Facilitamos la negociación directa de cosechas, aseguramos la custodia y liquidación transparente de transacciones y optimizamos el transporte terrestre mediante herramientas modernas de telemetría y trazabilidad.
+**SITONOS** es una plataforma integral de tecnología diseñada para digitalizar, optimizar y conectar la cadena de valor agroindustrial. Facilitamos la negociación directa de cosechas, aseguramos la custodia y liquidación transparente de transacciones y optimizamos el transporte terrestre mediante herramientas modernas de rastreo satelital y trazabilidad.
 
 Nuestra misión es empoderar a productores, transportistas y agroindustrias con un entorno digital confiable, eficiente y centrado en el crecimiento del sector.
 
@@ -31,7 +31,7 @@ Nuestra misión es empoderar a productores, transportistas y agroindustrias con 
 - Conciliación bancaria automatizada y dispersión eficiente de fondos tras la recepción de la carga.
 - Reducción del riesgo crediticio y de cobranza en el campo.
 
-### 🚚 3. Logística Inteligente y Telemetría
+### 🚚 3. Logística Inteligente y Rastreo Satelital
 - Gestión y asignación de viajes para transportistas y flotas de carga pesada.
 - Monitoreo satelital GPS en ruta para seguimiento seguro de fletes desde el campo hasta los silos.
 - Integración de comprobantes de romana y validación de entrega ágil mediante verificación digital.
@@ -54,14 +54,13 @@ Nuestra misión es empoderar a productores, transportistas y agroindustrias con 
 
 - **Protección de Datos:** Cifrado de extremo a extremo en comunicaciones y almacenamiento conforme a las mejores prácticas internacionales.
 - **Trazabilidad Integral:** Registro auditable de cada paso en la cadena comercial, desde el acuerdo inicial hasta la liquidación final.
-- **Disponibilidad:** Infraestructura en la nube con alta disponibilidad y redundancia para operar en jornadas intensivas de cosecha.
 
 ---
 
 ## 🌐 Conéctate con Nosotros
 
 - 🌍 **Sitio Web Oficial:** [sitonos.com](https://sitonos.com)
-- 💼 **LinkedIn:** [SITONOS en LinkedIn](https://www.linkedin.com/company/sitonos)
+- 💼 **LinkedIn:** [SITONOS en LinkedIn](https://www.linkedin.com/company/sitonos-app)
 - ✉️ **Contacto:** [contacto@sitonos.com](mailto:contacto@sitonos.com)
 
 ---
