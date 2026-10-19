@@ -6,14 +6,14 @@
 [![Logistics](https://img.shields.io/badge/Log%C3%ADstica-Monitoreo%20Satelital%20GPS-00C853?style=for-the-badge)](#)
 [![Platform](https://img.shields.io/badge/Plataforma-B2B%20Agroindustrial-6366F1?style=for-the-badge)](#)
 
-### 🌾 Transformando el sector agroindustrial mediante tecnología, logística inteligente y liquidación financiera segura.
+### 🌾 Transformando el sector agroindustrial con tecnología, logística inteligente y pagos protegidos bajo nuestra bóveda de custodia.
 
 ---
 </div>
 
 ## 🚀 Sobre SITONOS
 
-**SITONOS** es una plataforma integral de tecnología diseñada para digitalizar, optimizar y conectar la cadena de valor agroindustrial. Facilitamos la negociación directa de cosechas, aseguramos la custodia y liquidación transparente de transacciones y optimizamos el transporte terrestre mediante herramientas modernas de rastreo satelital y trazabilidad.
+**SITONOS** es una plataforma integral de tecnología diseñada para digitalizar, optimizar y conectar la cadena de valor agroindustrial. Facilitamos la negociación directa de cosechas, respaldamos cada transacción en nuestra bóveda de pagos protegida y optimizamos el transporte terrestre mediante herramientas modernas de rastreo satelital y trazabilidad.
 
 Nuestra misión es respaldar e impulsar las operaciones de productores, transportistas y agroindustrias mediante un entorno digital confiable, transparente y orientado a la rentabilidad del campo.
 
@@ -26,10 +26,10 @@ Nuestra misión es respaldar e impulsar las operaciones de productores, transpor
 - Formalización digital de acuerdos comerciales con términos claros y especificaciones de calidad.
 - Visibilidad de precios y tendencias de mercado en tiempo real.
 
-### 🛡️ 2. Garantía y Liquidación Financiera
-- Modelos de custodia transaccional (*Escrow*) que garantizan el pago seguro a productores y el cumplimiento para agroindustrias.
-- Conciliación bancaria automatizada y dispersión eficiente de fondos tras la recepción de la carga.
-- Reducción del riesgo crediticio y de cobranza en el campo.
+### 🛡️ 2. Bóveda de Pagos y Custodia Transaccional
+- **Fondos blindados en bóveda:** El comprador deposita previamente y el dinero queda resguardado de forma segura hasta la entrega efectiva de la cosecha.
+- **Liberación inmediata al productor:** Los fondos se transfieren en el momento exacto en que la romana confirma el pesaje del camión en el silo.
+- **Cero riesgo de impago:** Tranquilidad financiera absoluta para el productor y garantía de cumplimiento de entrega para la agroindustria.
 
 ### 🚚 3. Logística Inteligente y Rastreo Satelital
 - Gestión y asignación de viajes para transportistas y flotas de carga pesada.
