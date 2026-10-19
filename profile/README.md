@@ -15,7 +15,7 @@
 
 **SITONOS** es una plataforma integral de tecnología diseñada para digitalizar, optimizar y conectar la cadena de valor agroindustrial. Facilitamos la negociación directa de cosechas, aseguramos la custodia y liquidación transparente de transacciones y optimizamos el transporte terrestre mediante herramientas modernas de rastreo satelital y trazabilidad.
 
-Nuestra misión es empoderar a productores, transportistas y agroindustrias con un entorno digital confiable, eficiente y centrado en el crecimiento del sector.
+Nuestra misión es respaldar e impulsar las operaciones de productores, transportistas y agroindustrias mediante un entorno digital confiable, transparente y orientado a la rentabilidad del campo.
 
 ---
 
